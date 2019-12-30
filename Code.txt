@@ -1,2 +1,3 @@
 "First new file" 
 "This line added with echo to file" 
+This is new try 
